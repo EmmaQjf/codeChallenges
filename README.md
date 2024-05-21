@@ -11,3 +11,11 @@ Thoughts:  This challenges reminds me to reveiw the regular expression and synta
 
 Thoughts: 
 #3 I struggled on this one and it took a while. I learned about the functions of regular expression, like match().replace().Also use new RegExp to write regular expression variables, like new RegExp(`[^${letters[i]}${letters[j]}]`, 'g').
+
+
+##Day 2:
+Today's Progress: completed the staircase and DiagonalDifference.
+**#4** Staircase: 
+Thought: Avoided using O(N^2) time complexity. Learned using repeat function.
+**#5** DiagonalDifference:Given a square matrix, calculate the absolute difference between the sums of its diagonals.
+thoughts: learned the squareMatrix and how to represent each square with arr[i][j]. 
