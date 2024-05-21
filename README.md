@@ -19,3 +19,8 @@ Today's Progress: completed the staircase and DiagonalDifference.
 Thought: Avoided using O(N^2) time complexity. Learned using repeat function.
 **#5** DiagonalDifference:Given a square matrix, calculate the absolute difference between the sums of its diagonals.
 thoughts: learned the squareMatrix and how to represent each square with arr[i][j]. 
+
+##Day 3: 
+Today's Progress: completed the staircase and DiagonalDifference.
+**#6** DiagonalDifference:Given a rectangle or square matrix, calculate the absolute difference between the sums of its diagonals.
+thoughts: This is very challenging, but the key is to find the condition when squares are in the diaognals. 
