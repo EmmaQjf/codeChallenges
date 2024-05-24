@@ -45,3 +45,6 @@ thoughts: very simple, a good review of filter function. </br>
 
 #10 marsExploration : Given the signal received by Earth as a string, , determine how many letters of the SOS message have been changed by radiation.
 thoughts: very simple, a good review of if conditions </br>
+
+#11 hackerrankInString : check whether given string contains the word hackerrank 
+thoughts: very simple, a good review of .*? respresents random characters in regular expression </br>
