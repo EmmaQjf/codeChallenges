@@ -48,3 +48,6 @@ thoughts: very simple, a good review of if conditions </br>
 
 #11 hackerrankInString : check whether given string contains the word hackerrank 
 thoughts: very simple, a good review of .*? respresents random characters in regular expression </br>
+
+#12 pangrams : A pangram is a string that contains every letter of the alphabet. Given a sentence determine whether it is a pangram in the English alphabet. Ignore case. Return either pangram or not pangram as appropriate.
+thoughts: very simple, a good review of map function </br>
