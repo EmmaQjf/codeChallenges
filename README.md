@@ -33,9 +33,12 @@ Today's Progress: completed the CaesarCipher <br />
 thoughts: This is very challenging and code in my first try was not DRY. I found it is helpful to write a seperate function to deal some logics to make the code clean. Did not use  O(N^2) time complexity which is a success.  
 
 ## Day 5:
-Today's Progress: completed the superReducedString <br />
+Today's Progress: completed the superReducedString & camelcase<br />
 #8 superReducedString : Reduce a string of lowercase characters in range ascii[‘a’..’z’]by doing a series of operations. In each operation, select a pair of adjacent letters that match, and delete them.
 
 Delete as many characters as possible using this method and return the resulting string. If the final string is empty, return Empty String
 
 thoughts: This took me a while to solve the problem. I stuck on the case that if the letter is not the same to the adjacent one and is also different from the newString, I need to remove the letter from newString if they are the same. I get better understanding of concat, slice and simplied my code. 
+
+#9 camelcase : Given s , determine the number of words in s .
+thoughts: very simple, a good review of filter function.
