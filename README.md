@@ -51,3 +51,15 @@ thoughts: very simple, a good review of .*? respresents random characters in reg
 
 #12 pangrams : A pangram is a string that contains every letter of the alphabet. Given a sentence determine whether it is a pangram in the English alphabet. Ignore case. Return either pangram or not pangram as appropriate.
 thoughts: very simple, a good review of map function </br>
+
+
+## Day 6:
+Today's Progress: completed the weightedUniformStrings && separateNumbers<br />
+#13 weightedUniformStrings 
+thoughts:I used the frequency counter to check the continous letters and it is not efficient. Used the logic to check the current char and previous char and update the weight is better. Also I learned new Set()to generate an array and charCodeAt(0) </br>
+#14 separateNumbers
+thoughts: This one is very challenging and it took me a while to figure out the logic. 
+Instead of checking whether the number == 10** n -1 (99 means next number has one extra digit), check the length of (currentNum + 1) and check whether currentNum + 1 equals to the s.slice(j, j + next.length). Also I learned what BigInt is. This values represent numeric values which are too large to be represented by the number primitive. </br>
+
+
+
