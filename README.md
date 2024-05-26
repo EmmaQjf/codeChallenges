@@ -61,5 +61,8 @@ thoughts:I used the frequency counter to check the continous letters and it is n
 thoughts: This one is very challenging and it took me a while to figure out the logic. 
 Instead of checking whether the number == 10** n -1 (99 means next number has one extra digit), check the length of (currentNum + 1) and check whether currentNum + 1 equals to the s.slice(j, j + next.length). Also I learned what BigInt is. This values represent numeric values which are too large to be represented by the number primitive. </br>
 
+#15 funnyString
+thoughts: This one is simple. </br>
+
 
 
