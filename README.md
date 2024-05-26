@@ -65,4 +65,8 @@ Instead of checking whether the number == 10** n -1 (99 means next number has on
 thoughts: This one is simple. </br>
 
 
+#16 gemstones
+thoughts: Need to consider edge cases and my solution is not efficient.  </br>
+
+
 
