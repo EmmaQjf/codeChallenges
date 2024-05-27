@@ -69,4 +69,8 @@ thoughts: This one is simple. </br>
 thoughts: Need to consider edge cases and my solution is not efficient.  </br>
 
 
+## Day 7:
+Today's Progress: completed the alternatingCharacters <br />
+#17 alternatingCharacters: find the minimum number of required deletions and change it into a string such that there are no matching adjacent characters. 
+thoughts:simple and I defines the variables and made the code easy to read. </br>
 
