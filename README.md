@@ -74,3 +74,11 @@ Today's Progress: completed the alternatingCharacters <br />
 #17 alternatingCharacters: find the minimum number of required deletions and change it into a string such that there are no matching adjacent characters. 
 thoughts:simple and I defines the variables and made the code easy to read. </br>
 
+
+## Day 8:
+Today's Progress: completed the beautifulBinaryString <br />
+#18 beautifulBinaryString: Alice has a binary string. She thinks a binary string is beautiful if and only if it doesn't contain the substring .
+
+In one step, Alice can change a  to a  or vice versa. Count and print the minimum number of steps needed to make Alice see the string as beautiful.
+thoughts:simple and key point is check whether the next 3 chars follows the pattern of '010' and if it is yes, skip to the i +2.  </br>
+
