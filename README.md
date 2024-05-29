@@ -82,3 +82,9 @@ Today's Progress: completed the beautifulBinaryString <br />
 In one step, Alice can change a  to a  or vice versa. Count and print the minimum number of steps needed to make Alice see the string as beautiful.
 thoughts:simple and key point is check whether the next 3 chars follows the pattern of '010' and if it is yes, skip to the i +2.  </br>
 
+## Day 9:
+Today's Progress: completed the theLoveLetterMystery <br />
+#19 theLoveLetterMystery: Find the minimum number of operations required to convert a given string into a palindrome.
+
+thoughts:simple and key point is check the difference of charCodeAt between the letter at s[i] and s[s.length -1 -i] position and loop only Math.floor(s.length -1)times   </br>
+
