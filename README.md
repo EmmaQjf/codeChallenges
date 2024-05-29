@@ -88,3 +88,9 @@ Today's Progress: completed the theLoveLetterMystery <br />
 
 thoughts:simple and key point is check the difference of charCodeAt between the letter at s[i] and s[s.length -1 -i] position and loop only Math.floor(s.length -1)times   </br>
 
+
+## Day 10:
+Today's Progress: completed the highestValuePalindrome <br />
+#20 highestValuePalindrome: Given a string representing the starting number, and a maximum number of changes allowed, create the largest palindromic string of digits possible or the string '-1' if it is not possible to create a palindrome under the contstraints.
+
+thoughts:challenging and key point is check the conditions of how many numbers are not pairs. k < NotPair and k == NotPair are very simple and it is difficult to make the logics clear for the case when k is bigger than NotPair. I also need to consider whether the number is 9 and see whether to change it. So far my code passes most of tests but there are still bugs.   </br>
