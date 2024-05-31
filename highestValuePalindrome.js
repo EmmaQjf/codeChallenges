@@ -21,7 +21,7 @@ function highestValuePalindrome(s, n, k) {
         return result.join('');
     } else {
         for (let i = 0; i < pairs; i++) {
-            if (Math.max(s[i], s[n - 1 - i]) !== '9' && difference > 0) {
+            if (Math.floor(s[i],s[n - 1 - i]) !== '9' && difference > 0) {
                 result[i] = '9';
                 result[n - 1 - i] = '9';
                 difference--;

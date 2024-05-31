@@ -94,3 +94,9 @@ Today's Progress: completed the highestValuePalindrome <br />
 #20 highestValuePalindrome: Given a string representing the starting number, and a maximum number of changes allowed, create the largest palindromic string of digits possible or the string '-1' if it is not possible to create a palindrome under the contstraints.
 
 thoughts:challenging and key point is check the conditions of how many numbers are not pairs. k < NotPair and k == NotPair are very simple and it is difficult to make the logics clear for the case when k is bigger than NotPair. I also need to consider whether the number is 9 and see whether to change it. So far my code passes most of tests but there are still bugs.   </br>
+
+## Day 11:
+Today's Progress: completed the PalindromeIndex <br />
+#21 PalindromeIndex: Given a string of lowercase letters in the range ascii[a-z], determine the index of a character that can be removed to make the string a palindrome. There may be more than one solution, but any will do. If the word is already a palindrome or there is no solution, return -1. Otherwise, return the index of a character to remove.</br>
+
+thoughts:challenging and there are still bugs.  My main logics works as to check whether the string is palindrome first and if yes, return -1. Then find the removedIndex and check whether the altered string is a palindrome.   </br>
