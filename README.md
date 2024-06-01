@@ -109,7 +109,8 @@ thoughts:very simple   </br>
 
 
 ## Day 13:
-Today's Progress: completed the bigSorting <br />
+Today's Progress: completed the bigSorting & revisedBigSorting <br />
 #22 bigSorting:Sort the array's elements in non-decreasing, or ascending order of their integer values and return the sorted array.
+#23 insertionSort1: 
 
-thoughts:reviewed the mergeSort. learned about the BigInt and concat   </br>
+thoughts:very simple but I made mistake of not reading the requirement first. Also in a loop , when to use break and where to use return  </br>
