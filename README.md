@@ -106,3 +106,10 @@ Today's Progress: completed the reverseInt <br />
 #21 reverseInt
 
 thoughts:very simple   </br>
+
+
+## Day 13:
+Today's Progress: completed the bigSorting <br />
+#22 bigSorting:Sort the array's elements in non-decreasing, or ascending order of their integer values and return the sorted array.
+
+thoughts:reviewed the mergeSort. learned about the BigInt and concat   </br>
