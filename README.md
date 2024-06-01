@@ -100,3 +100,9 @@ Today's Progress: completed the PalindromeIndex <br />
 #21 PalindromeIndex: Given a string of lowercase letters in the range ascii[a-z], determine the index of a character that can be removed to make the string a palindrome. There may be more than one solution, but any will do. If the word is already a palindrome or there is no solution, return -1. Otherwise, return the index of a character to remove.</br>
 
 thoughts:challenging and there are still bugs.  My main logics works as to check whether the string is palindrome first and if yes, return -1. Then find the removedIndex and check whether the altered string is a palindrome.   </br>
+
+## Day 12:
+Today's Progress: completed the reverseInt <br />
+#21 reverseInt
+
+thoughts:very simple   </br>
