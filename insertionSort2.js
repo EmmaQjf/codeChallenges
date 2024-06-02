@@ -24,24 +24,19 @@ function insertionSort2(n, arr) {
     // Write your code here
      for (let i = 0; i < arr.length - 1; i++){
         let current = arr[i+1]
-        console.log(arr[i],current)
-        if ( arr[i] <= current){
-            console.log(arr)
-            
-        }
    
     let j = i;
     while (j >= 0){
       if (arr[j] >= current){
-         console.log(arr[j])
         arr[j+1] = arr[j];
+        arr[j] = current;
         j--;
-        console.log(arr)
       } else {
         arr[j+1] = current;
         break
-      }
+      } 
     }
+    console.log(arr.join(' '))
     
 }
 return arr;
