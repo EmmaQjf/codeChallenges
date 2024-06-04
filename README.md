@@ -114,3 +114,16 @@ Today's Progress: completed the bigSorting & revisedBigSorting <br />
 #23 insertionSort1: 
 
 thoughts:very simple but I made mistake of not reading the requirement first. Also in a loop , when to use break and where to use return  </br>
+
+
+## Day 14:
+Today's Progress: completed the birthday  <br />
+#24 birthday:Two children, Lily and Ron, want to share a chocolate bar. Each of the squares has an integer on it.
+
+Lily decides to share a contiguous segment of the bar selected such that:
+
+The length of the segment matches Ron's birth month, and,
+The sum of the integers on the squares is equal to his birth day.
+Determine how many ways she can divide the chocolate.
+
+thoughts:a good review to use sliding window </br>
