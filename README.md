@@ -127,3 +127,9 @@ The sum of the integers on the squares is equal to his birth day.
 Determine how many ways she can divide the chocolate.
 
 thoughts:a good review to use sliding window </br>
+
+
+## Day 15:
+Today's Progress: completed the maxSubarraySum <br />
+#25 maxSubarraySum:
+thoughts:a good review to use reduce </br>
