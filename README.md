@@ -133,3 +133,11 @@ thoughts:a good review to use sliding window </br>
 Today's Progress: completed the maxSubarraySum <br />
 #25 maxSubarraySum:
 thoughts:a good review to use reduce </br>
+
+
+## Day 16:
+Today's Progress: completed the divisibleSumPairs & migratoryBirds<br />
+#26 divisibleSumPairs:
+thoughts:used the filter to avoid big 0 n2. </br>
+#27 migratoryBirds:
+thoughts:frequency counter </br>
