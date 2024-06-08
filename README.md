@@ -141,3 +141,9 @@ Today's Progress: completed the divisibleSumPairs & migratoryBirds<br />
 thoughts:used the filter to avoid big 0 n2. </br>
 #27 migratoryBirds:
 thoughts:frequency counter </br>
+
+
+## Day 17:
+Today's Progress: completed the minimaxSum<br />
+#28 minimaxSum
+thoughts:good review for assorting array and using reduce function </br>
