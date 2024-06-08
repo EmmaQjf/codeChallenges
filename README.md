@@ -144,8 +144,10 @@ thoughts:frequency counter </br>
 
 
 ## Day 17:
-Today's Progress: completed the minimaxSum & birthdayCandles<br />
+Today's Progress: completed the minimaxSum & birthdayCandles &timeConversion<br />
 #28 minimaxSum
 thoughts:good review for assorting array and using reduce function </br>
-#28 birthdayCandles
+#29 birthdayCandles
 thoughts:good review of frequency counter  </br>
+#30 timeConversion
+thoughts:easy, good review of if conditions  </br>
