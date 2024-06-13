@@ -157,3 +157,8 @@ Today's Progress: completed the is Valid<br />
 #31 Sherlock considers a string to be valid if all characters of the string appear the same number of times. It is also valid if he can remove just  character at  index in the string, and the remaining characters will occur the same number of times. Given a string , determine if it is valid. If so, return YES, otherwise return NO.
 thoughts:frequency counter but it failed two test. 'aaaabbcc'case </br>
 
+## Day 19:
+Today's Progress: completed the circularArrayRotation<br />
+#32 For each array, perform a number of right circular rotations and return the values of the elements at the given indices.
+
+thoughts:fairly simple, learned new Array(a.length).fill(0) feature </br>

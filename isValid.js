@@ -17,14 +17,24 @@ function isValid(s) {
     let keys = Object.keys(numberFC)
     if (keys.length === 1){
         return 'YES'
-    } else if(keys.length > 2){
-        return 'NO'
-    } else if ( keys.length === 2  && numberFC[keys[0]] === 1 && numberFC[keys[1]] >1) { return 'YES'     
-    }else if ( keys.length === 2 && numberFC[keys[1]] === 1 && numberFC[keys[0]] >1) { return 'YES'     
-    } else if (keys.length === 2 && numberFC[keys[0]] >= 2|| numberFC[keys[1]] >=2){
-        return 'NO'
-    } else {
-        return 'NO'
+    } 
+    // else if(keys.length > 2){
+    //     return 'NO'
+    // } else if ( keys.length === 2  && numberFC[keys[0]] === 1 && numberFC[keys[1]] >1) { return 'YES'     
+    // }else if ( keys.length === 2 && numberFC[keys[1]] === 1 && numberFC[keys[0]] >1) { return 'YES'     
+    // } else if (keys.length === 2 && numberFC[keys[0]] >= 2|| numberFC[keys[1]] >=2){
+    //     return 'NO'
+    // } else {
+    //     return 'NO'
+    // }
+    if (keys.length === 2) {
+        const [count1, count2] = keys;
+        if ((numberFC[count1] === 1 && (Math.abs(count1 - count2) === 1 || count1 === 1)) ||
+            (numberFC[count2] === 1 && (Math.abs(count1 - count2) === 1 || count2 === 1))) {
+            return "YES";
+        }
     }
+
+    return "NO";
 
 }
