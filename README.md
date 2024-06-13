@@ -158,7 +158,9 @@ Today's Progress: completed the is Valid<br />
 thoughts:frequency counter but it failed two test. 'aaaabbcc'case </br>
 
 ## Day 19:
-Today's Progress: completed the circularArrayRotation<br />
+Today's Progress: completed the circularArrayRotation && permutationEquation<br />
 #32 For each array, perform a number of right circular rotations and return the values of the elements at the given indices.
-
 thoughts:fairly simple, learned new Array(a.length).fill(0) feature </br>
+#33 permutationEquation:Given a sequence of  integers,  where each element is distinct and satisfies . For each  where , that is  increments from  to , find any integer  such that  and keep a history of the values of  in a return array.
+thoughts:fairly simple, review the while loop and indexOf </br>
+
