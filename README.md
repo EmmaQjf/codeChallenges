@@ -169,3 +169,9 @@ thoughts:fairly simple, review the while loop and indexOf </br>
 Today's Progress: completed isValid<br />
 #32 isValid: Sherlock considers a string to be valid if all characters of the string appear the same number of times. It is also valid if he can remove just  character at  index in the string, and the remaining characters will occur the same number of times. Given a string , determine if it is valid. If so, return YES, otherwise return NO.
 thoughts:fixed the bug. It was not too difficult but I need to think through and figure out the edge cases when the string is valid and it took a while to figure out the logic</br>
+
+
+## Day 20:
+Today's Progress: completed isValid<br />
+#33 iceCreamParlor:
+thoughts:simple but need to make it more efficient/br>
