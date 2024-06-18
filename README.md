@@ -172,6 +172,11 @@ thoughts:fixed the bug. It was not too difficult but I need to think through and
 
 
 ## Day 20:
-Today's Progress: completed isValid<br />
+Today's Progress: completed icecreamParlor<br />
 #33 iceCreamParlor:
 thoughts:simple but need to make it more efficient/br>
+
+## Day 21:
+Today's Progress: completed knightlOnAChessboard<br />
+#34 iceCreamParlor:What is the minimum number of KnightL(a,b) moves it takes for  to get from position(0,0) to position(n-1,n-1) ? If it's not possible for the Knight to reach that destination, the answer is -1 instead.
+thoughts:</br>
