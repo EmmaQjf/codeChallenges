@@ -177,6 +177,9 @@ Today's Progress: completed icecreamParlor<br />
 thoughts:simple but need to make it more efficient/br>
 
 ## Day 21:
-Today's Progress: completed knightlOnAChessboard<br />
+Today's Progress: completed knightlOnAChessboard and missingNumbers<br />
 #34 iceCreamParlor:What is the minimum number of KnightL(a,b) moves it takes for  to get from position(0,0) to position(n-1,n-1) ? If it's not possible for the Knight to reach that destination, the answer is -1 instead.
 thoughts:</br>
+#35 missingNumbers:Given two arrays of integers, find which elements in the second array are missing from the first array.
+thoughts:use frequency counter</br>
+
