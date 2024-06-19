@@ -183,3 +183,6 @@ thoughts:</br>
 #35 missingNumbers:Given two arrays of integers, find which elements in the second array are missing from the first array.
 thoughts:use frequency counter</br>
 
+#36 pairs:Given an array of integers and a target value, determine the number of pairs of array elements that have a difference equal to the target value.
+thoughts:two pointer</br>
+
