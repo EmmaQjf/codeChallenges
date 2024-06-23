@@ -186,3 +186,11 @@ thoughts:use frequency counter</br>
 #36 pairs:Given an array of integers and a target value, determine the number of pairs of array elements that have a difference equal to the target value.
 thoughts:two pointer</br>
 
+## Day 22:
+Today's Progress: completed balancedSum<br />
+#37 balancedSu:Watson gives Sherlock an array of integers. His challenge is to find an element of the array such that the sum of all elements to the left is equal to the sum of all elements to the right.
+thoughts:Tried to use the two-pointer but the code is overly too complicated. Use single loop to increase the leftSum and decrese the rightSum</br>
+## Day 23:
+Today's Progress: completed Maximum Subarray Sum<br />
+#37 Maximum Subarray Sum:Given an  element array of integers, , and an integer, , determine the maximum value of the sum of any of its subarrays modulo .
+thoughts:Tried to make the code efficient and run faster</br>
