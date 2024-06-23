@@ -194,3 +194,8 @@ thoughts:Tried to use the two-pointer but the code is overly too complicated. Us
 Today's Progress: completed Maximum Subarray Sum<br />
 #37 Maximum Subarray Sum:Given an  element array of integers, , and an integer, , determine the maximum value of the sum of any of its subarrays modulo .
 thoughts:Tried to make the code efficient and run faster</br>
+
+## Day 24:
+Today's Progress: understand the code Maximum Subarray Sum<br />
+#37 Maximum Subarray Sum:Given an  element array of integers, , and an integer, , determine the maximum value of the sum of any of its subarrays modulo .
+thoughts:read the resolution and understood how to make overall time complexity of the function to be O(n)</br>
