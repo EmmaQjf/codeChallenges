@@ -196,6 +196,9 @@ Today's Progress: completed Maximum Subarray Sum<br />
 thoughts:Tried to make the code efficient and run faster</br>
 
 ## Day 24:
-Today's Progress: understand the code Maximum Subarray Sum<br />
+Today's Progress: understand the code Maximum Subarray Sum && connectedCell<br />
 #37 Maximum Subarray Sum:Given an  element array of integers, , and an integer, , determine the maximum value of the sum of any of its subarrays modulo .
 thoughts:read the resolution and understood how to make overall time complexity of the function to be O(n)</br>
+
+#38 connectedCell:Given an  matrix, find and print the number of cells in the largest region in the matrix. 
+thoughts:challenging but learned what Depth-First-Search algorithm is and how to use it to find the whether there is a path between two nodes. There is still a bug in the code</br>
