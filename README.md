@@ -202,3 +202,9 @@ thoughts:read the resolution and understood how to make overall time complexity 
 
 #38 connectedCell:Given an  matrix, find and print the number of cells in the largest region in the matrix. 
 thoughts:challenging but learned what Depth-First-Search algorithm is and how to use it to find the whether there is a path between two nodes. There is still a bug in the code</br>
+
+## Day 25:
+Today's Progress:complete pageCount<br />
+#37 pageCount:Given n and p, find and print the minimum number of pages that must be turned in order to arrive at page .</br>
+
+thoughts:simple</br>
