@@ -208,3 +208,9 @@ Today's Progress:complete pageCount<br />
 #37 pageCount:Given n and p, find and print the minimum number of pages that must be turned in order to arrive at page .</br>
 
 thoughts:simple</br>
+
+## Day 26:
+Today's Progress:complete valleyCount<br />
+#38 valleyCount:Given the sequence of up and down steps during a hike, find and print the number of valleys walked through.</br>
+
+thoughts:simple</br>
