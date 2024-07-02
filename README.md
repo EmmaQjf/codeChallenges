@@ -217,6 +217,12 @@ thoughts:simple</br>
 
 ## Day 27:
 Today's Progress:complete getMoneySpent<br />
-#38 valleyCount:A person wants to determine the most expensive computer keyboard and USB drive that can be purchased with a give budget. Given price lists for keyboards and USB drives and a budget, find the cost to buy them. If it is not possible to buy both items, return -1.</br>
+#39 valleyCount:A person wants to determine the most expensive computer keyboard and USB drive that can be purchased with a give budget. Given price lists for keyboards and USB drives and a budget, find the cost to buy them. If it is not possible to buy both items, return -1.</br>
 
 thoughts:it is fairly simple but try to keep the code proficient </br>
+
+## Day 28:
+Today's Progress:complete catAndMouse<br />
+#40 valleyCount:Two cats and a mouse are at various positions on a line. You will be given their starting positions. Your task is to determine which cat will reach the mouse first, assuming the mouse does not move and the cats travel at equal speed. If the cats arrive at the same time, the mouse will be allowed to move and it will escape while they fight.</br>
+
+thoughts:it is fairly simple. </br>
