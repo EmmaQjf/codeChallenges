@@ -226,3 +226,7 @@ Today's Progress:complete catAndMouse<br />
 #40 valleyCount:Two cats and a mouse are at various positions on a line. You will be given their starting positions. Your task is to determine which cat will reach the mouse first, assuming the mouse does not move and the cats travel at equal speed. If the cats arrive at the same time, the mouse will be allowed to move and it will escape while they fight.</br>
 
 thoughts:it is fairly simple. </br>
+
+#41 formingMagicSquare:You will be given a  matrix 3*3 of integers in the inclusive range . We can convert any digit  to any other digit  in the range  at cost of . Given , convert it into a magic square at minimal cost. Print this cost on a new line.</br>
+
+thoughts:quite complicated and spent 2 hours to figure out the basic logics. There are bugs. </br>
